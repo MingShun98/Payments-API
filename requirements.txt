@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+pytest
+pytest-bdd
+requests
+python-jose

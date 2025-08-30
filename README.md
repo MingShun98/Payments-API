@@ -1,6 +1,6 @@
 # Payments & Transactions API
 
-A simplified Visa-like transaction API built with FastAPI.
+A simplified transaction API built with FastAPI.
 
 ## 🚀 Run Locally
 ```bash
